@@ -1,0 +1,40 @@
+h3{
+    font-size: 20pt;
+    color: red;
+}
+
+.test1{
+        border: 2px solid red;
+}
+
+.bg_y{
+    background-color: yellow;
+}
+#main1{
+    font-size: 50px;
+}
+
+.exam h5 {
+    color: red;
+}
+
+.hometown1{
+    background-color:green;
+}
+*{
+   background-color: red;
+}
+
+div p {
+    font-size: 30pt;
+}
+.exam h5 {
+    color: red;
+}
+
+div, p {
+    font-size: 30px;
+}
+div p {
+    font-size: 40px;
+}
